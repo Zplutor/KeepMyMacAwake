@@ -9,4 +9,4 @@ This is a script add-on for Kodi. It simply connects a SMB server on local netwo
 
 1. Firstly, you need to set up a SMB shared directory on the server, and turn on “Wake for network access”.
 2. Clone this repository, open `script.service.keep-my-mac-awake/addon.py`, modify username, password and shared directory's address to properly values.
-3. Make a zip file from the repository root directory, and install it in Kodi.
+3. Make a zip file from `script.service.keep-my-mac-awake` directory, and install it in Kodi.
